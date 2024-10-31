@@ -93,6 +93,43 @@ main {
     font-size: 18px;
     font-weight: 500;
 }
+.features {
+    padding: 0 12%;
+}
+.features-title {
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    margin: 50px 0;
+}
+
+.feature-icon {
+    width: 100px;
+    height: 100px;
+    border: 3px #3882f6 solid;
+    border-radius: 20%;
+    margin-bottom: 15px;
+}
+
+.features-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.feature {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.feature p {
+    color: #1f2937E0;
+}
 
 footer {
     background-color: #1F2937;
