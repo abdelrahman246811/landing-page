@@ -148,11 +148,41 @@ main {
     color: #1f2937;
 }
 
+.cta {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 5px;
+    margin: 75px;
+    padding: 40px 60px;
+}
+
+.cta h2 {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.cta p {
+    font-size: 18px;
+    font-weight: 100;
+    margin-bottom: 26px;
+}
+
+.cta-buttons {
+    text-align: right;
+}
+
+.cta a {    
+    color: #f9faf8;
+    padding: 10px 20px;
+    border: 2px #f9faf8 solid;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
 footer {
     background-color: #1F2937;
     color: #fff;
     text-align: center;
     padding: 10px 0;
 }
-
-
