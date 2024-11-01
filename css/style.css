@@ -94,7 +94,7 @@ main {
     font-weight: 500;
 }
 .features {
-    padding: 0 12%;
+    padding: 0 13%;
 }
 .features-title {
     text-align: center;
@@ -152,7 +152,7 @@ main {
     background-color: #3882f6;
     color: #f9faf8;
     border-radius: 5px;
-    margin: 75px;
+    margin: 75px 13%;
     padding: 40px 60px;
 }
 
