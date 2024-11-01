@@ -131,6 +131,23 @@ main {
     color: #1f2937E0;
 }
 
+.quotes {
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: lighter;
+    padding: 120px 13%;
+    margin: 50px 0;
+}
+
+.quote-auther {
+    text-align: right;
+    font-size: 24px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
 footer {
     background-color: #1F2937;
     color: #fff;
